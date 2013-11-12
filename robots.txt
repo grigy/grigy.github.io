@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://grigy.github.io/sitemap.xml 
+Sitemap: http://grigy.com/sitemap.xml 
